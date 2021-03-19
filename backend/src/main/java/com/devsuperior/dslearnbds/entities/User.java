@@ -17,6 +17,7 @@ import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
+///**so para o commit**///
 @Entity
 @Table(name = "tb_user")
 public class User implements Serializable {
